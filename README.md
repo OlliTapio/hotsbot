@@ -2,7 +2,9 @@
 
 Here is my first telegram bot. It tells you you if there has been new patchnotes and posts link to them. In future it will also straight post the latest patch notes to everyone following the bot.
 
-# Prerequisities
+Type ``` /hots ``` in telegram to begin
+
+# Prerequisites
 
 python3 and pip3 
 
@@ -21,9 +23,11 @@ https://core.telegram.org/bots#6-botfather
 
 3. Create token.txt with your token
 
-4. Install telepot
+4. Install telepot and beatiful soup
 
  ``` pip3 install telepot ```
+
+ ``` pip3 install beautifulsoup4 ```
 
 5. Run the program typing
 
